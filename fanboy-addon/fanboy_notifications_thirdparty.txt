@@ -44,6 +44,7 @@
 ||push-engage.com^$third-party
 ||push-notifications.top^$third-party
 ||push-pro.net^$third-party
+||push.asahiinteractive.com^
 ||push.bytesignal.com^
 ||push.daksham.in^$third-party
 ||push.delivery.ethinking.de^
@@ -102,6 +103,7 @@
 ||snrcdn.net^$third-party
 ||spacepush.ru^$third-party
 ||system-notify.app^$third-party
+||ternairsoftware.com/publicwebpush/
 ||topswp.com^$third-party
 ||unative.com^$third-party
 ||viafoura.net/push_handlers.js

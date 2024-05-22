@@ -280,6 +280,7 @@ clevelandjewishnews.com,kmov.com,kptv.com##.paging-link
 atheistrepublic.com##.pane-aweber-webform
 playbuzz.com##.pb-page-overlay
 latestgadgets.tech,rebooti.com##.popnav
+pastebin.com##.popup-container
 okmagazine.com##.popupad-base
 rap-up.com,wellnessmama.com##.post-nav
 weebly.com##.powered-by
@@ -587,6 +588,8 @@ whosampled.com##.crates-banner
 wellgames.com##.cross-promo
 c-span.org##.cspan-ad-still-prebid-placeholder
 tsn.ca##.cta-element
+fark.com##.custombox-content
+fark.com##.custombox-overlay
 commondreams.org##.d-print-none.position-relative
 texastribune.org##.db-frame-pinned
 lambdatest.com##.demo__cta
@@ -598,7 +601,7 @@ swordscomic.com##.dialog-invitation
 designtaxi.com##.displayboard
 fullfact.org,opendemocracy.net##.donate
 rabble.ca##.donate-bar
-rabble.ca,sciencenews.org##.donate-box
+rabble.ca,sciencenews.org,thedp.com##.donate-box
 lifesitenews.com##.donate-callout
 insideclimatenews.org##.donate-cta
 mprnews.org##.donateAsk
@@ -660,6 +663,7 @@ themarkup.org##.header-stripe
 crealitycloud.com##.header-top-banner
 infoq.com##.header__bottom__events
 xhaccess.com,xhamster.com,xhamster.desi##.heading-promo
+whyy.org##.hearken-embed
 insidethegames.biz##.hide-for-contributors
 tipranks.com##.hideOnpremium
 48hills.org##.hills-inline-full-width
@@ -779,6 +783,7 @@ racingtv.com##.promotion__asset
 racingtv.com##.promotion__overlay
 bikeradar.com##.promotional-content
 outlookindia.com##.promotional_subscribeNow
+pressreader.com##.prpromo
 designboom.com##.publish-your-work
 thenationalpulse.com##.pulse__ad-wrapper
 thenationalpulse.com##.pulse_poster
@@ -850,6 +855,7 @@ bigbangnews.com##.sumate
 golem.de##.supplementary
 codastory.com##.support
 artstation.com##.support-artstation
+gbnews.com##.support-banner
 novaramedia.com##.support-bar
 thecanary.co##.support-img
 novaramedia.com##.support-section
@@ -862,6 +868,7 @@ banggood.com##.suspended-banner-wrap
 opb.org##.sustainer
 food.com##.sweeps-promo
 toucharcade.com##.ta_patreonWidget
+marketscreener.com##.teasing_widget_surtop_light
 swissinfo.ch##.temp-sticky-banner
 dieselworldmag.com##.text-22
 theblock.co##.theblockpro
@@ -955,7 +962,7 @@ thepress.co.nz##.article-navigation-buttons
 thespinoff.co.nz##.article-peep
 1news.co.nz##.articleSuggestStories
 bozemandailychronicle.com,thespec.com##.asset-paging
-bgdailynews.com,bramptonguardian.com,citizentribune.com,clintonherald.com,crossroadstoday.com,csindy.com,dentonrc.com,denvergazette.com,gazette.com,guelphmercury.com,homenewshere.com,insideottawavalley.com,kentuckytoday.com,khq.com,kilgorenewsherald.com,kmaland.com,kmzu.com,ktbs.com,kulr8.com,lufkindailynews.com,mdjonline.com,mtdemocrat.com,nashvillescene.com,nbcrightnow.com,news-gazette.com,newsmirror.net,niagarathisweek.com,ottumwacourier.com,phillytrib.com,pulaskicountyweekly.com,sfexaminer.com,sfweekly.com,starlocalmedia.com,swiowanewssource.com,thecanadianpressnews.ca,thecentersquare.com,themountaineer.com,therecord.com,thesuburban.com,thetimestribune.com,unionleader.com,wdel.com,wdrb.com,wellandtribune.ca,wfmz.com,wvnews.com##.asset-paging-container
+bgdailynews.com,bramptonguardian.com,chronicle-tribune.com,citizentribune.com,clintonherald.com,crossroadstoday.com,csindy.com,dentonrc.com,denvergazette.com,gazette.com,guelphmercury.com,homenewshere.com,insideottawavalley.com,kentuckytoday.com,khq.com,kilgorenewsherald.com,kmaland.com,kmzu.com,ktbs.com,kulr8.com,lufkindailynews.com,mdjonline.com,mtdemocrat.com,nashvillescene.com,nbcrightnow.com,news-gazette.com,newsmirror.net,niagarathisweek.com,ottumwacourier.com,phillytrib.com,postandcourier.com,pulaskicountyweekly.com,sfexaminer.com,sfweekly.com,starlocalmedia.com,swiowanewssource.com,thecanadianpressnews.ca,thecentersquare.com,themountaineer.com,therecord.com,thesuburban.com,thetimestribune.com,unionleader.com,wdel.com,wdrb.com,wellandtribune.ca,wfmz.com,wvnews.com##.asset-paging-container
 emergingrisks.co.uk##.avia-post-nav
 dailyvoice.com##.b-scroll-to-next-article
 cockroachlabs.com##.blog-back-header
@@ -981,6 +988,7 @@ racquetmag.com##.navigation_between_posts
 fixya.com##.next-arrow
 adexchanger.com,manilatimes.net,news24.com##.next-article
 bizcommunity.com##.next-navigation-container
+gmanetwork.com##.nxt-content-wrapper
 oneindia.com##.oi-footer-bottom-ad-btns
 msn.com##.paddle
 alligator-sunglasses.com,bucketlistseekers.com##.pagination
@@ -996,6 +1004,7 @@ tribune.com.pk##.prev-next-sec
 statnews.com##.recirculation-bar
 phonearena.com##.recom-upnext-section
 indiatoday.in##.recommended__widget
+gmanetwork.com##.ribbon-container
 armradio.am##.show-check-also
 science.org##.show-recommended
 spacetourismguide.com,thefitcareerist.com##.single-navigation
@@ -1175,7 +1184,7 @@ thesaturdaypaper.com.au##.article-footer-container
 allaboutcd.com##.atbs-ceris-go-top
 goodwillfinds.com##.b-back_to_top
 help.twitter.com,help.x.com##.b17-scroll-top-button
-albertsons.com,celebritycruises.com,err.ee,giantfreakinrobot.com,mygenefood.com,onthegotours.com,savoredjourneys.com,stanfordreview.org,wanderlustcrew.com##.back-to-top
+albertsons.com,celebritycruises.com,dl.acm.org,err.ee,giantfreakinrobot.com,mygenefood.com,nzherald.co.nz,onthegotours.com,savoredjourneys.com,stanfordreview.org,wanderlustcrew.com##.back-to-top
 mangatoto.com##.back-to-top-bot
 dealnews.com##.back-to-top-outer
 atozmath.com##.backToTop33

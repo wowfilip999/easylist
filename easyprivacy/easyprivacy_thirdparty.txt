@@ -861,6 +861,7 @@
 ||evidon.com/pub/
 ||eviesays.com/js/analytics/
 ||evri.com/analytics/
+||evt.24.com^
 ||evt.collarity.com^$image
 ||evt.houzz.com^
 ||ex.co/content/monetization/legacy-pixels/
@@ -1634,6 +1635,7 @@
 ||postageapp.com/receipt/$third-party
 ||poweredbyeden.com/widget/tracker/
 ||ppx.com/tracking/
+||pr-bh.ybp.yahoo.com/sync/
 ||pr.blogflux.com^
 ||prd-collector-anon.ex.co^
 ||prd-collector-platform.ex.co^
@@ -1877,6 +1879,7 @@
 ||squarespace.com/universal/scripts-compressed/performance-$script,third-party
 ||srvmath.com^*/analytics.js
 ||ssa.stepstone.com^
+||ssc.shopstyle.com/collective.min.js
 ||ssl-images-amazon.com/images/I/31YXrY93hfL.js$domain=imdb.com
 ||ssr.streamrail.net^
 ||st.cdnco.us^
@@ -2359,6 +2362,7 @@
 ||visual.ly/track.php?
 ||visualstudio.com/_da.gif?
 ||visualwebsiteoptimizer.com/dyn
+||visualwebsiteoptimizer.com/ee.gif?
 ||visualwebsiteoptimizer.com/gv.gif?
 ||visualwebsiteoptimizer.com/j.php
 ||visualwebsiteoptimizer.com/server-side/track-user?
